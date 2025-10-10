@@ -9,7 +9,7 @@ public class CourseManagment {
             String name;
 
             void introduce() {
-                System.out.println("Привет меня зовут: " + name + " мне " + age + "лет");
+                System.out.println("Привет мое зовут: " + name + " мне " + age + "лет");
             }
         }
 
@@ -43,7 +43,7 @@ public class CourseManagment {
                     System.out.println("Снятие: " + amount + " Баланс: " + balance);
                 }
                 else{
-                    System.out.println("Недостаточно средств");
+                    System.out.println("Нехватает  средств");
                 }
             }
             double getBalance(){
@@ -123,3 +123,6 @@ public class CourseManagment {
         }
     }
 }
+
+
+
