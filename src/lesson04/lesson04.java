@@ -1,3 +1,5 @@
+package lesson04;
+
 import java.util.Scanner;
 public class lesson04 {
     public static void main(String[] args) {
