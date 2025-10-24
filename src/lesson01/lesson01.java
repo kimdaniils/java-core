@@ -7,6 +7,7 @@ public class lesson01 {
                 System.out.print((i * j) + "\t");
             }
             System.out.println();
+
         }
     }
 }
